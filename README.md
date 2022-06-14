@@ -9,4 +9,5 @@ i made three models in total
 
 
 For my project i referenced codes that were used in the Week 2 and Week 6.
-the video presentation can be found on youtube with the link
+the video presentation can be found on youtube with the link:
+https://youtu.be/Hag9GtX2MPo
